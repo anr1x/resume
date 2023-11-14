@@ -1,0 +1,45 @@
+/* Общий стиль */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #ddd;
+    padding: 20px;
+    text-align: center;
+}
+
+    header h1 {
+        margin: 0;
+        font-size: 28px;
+        color: #333; /* Цвет заголовка */
+    }
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: #555; /* Цвет текста в секциях */
+}
+
+h2 {
+    margin-top: 0;
+    color: #333; /* Цвет заголовков секций */
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
